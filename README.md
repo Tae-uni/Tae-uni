@@ -1,6 +1,7 @@
 <h2>👋 Hi, This is Taekwon Kim!</h2>
 <h4>As a developer with a passion for web, I'm driven to powerful applications that connect users worldwide. 
-  Whether solving backend challenges or designing full-stack systems, I'm always learning, innovating, and striving to make a global difference.</h3>
+  Whether solving backend challenges or designing full-stack systems, I'm always learning, innovating, and striving to make a global difference.</h4>
+<p><a href="https://tae-uni.github.io/" target="_blank">Visit My Portfolio</a></p>
 
 ### 🧑🏻‍💻 Tech Stack
 **Frontend**  
@@ -22,8 +23,9 @@ A full-stack web application for managing photos and journals, featuring secure 
 **Tech Stack**: Next.js, Express.js, MongoDB, JWT
 
 ### 📬 Contact
-- [LinkedIn](https://www.linkedin.com/in/taekwon-kim-766165317/)
-- Email: taekwon.kim.dev@gmail.com
+- **Email**: [taekwon.kim.dev@gmail.com](mailto:taekwon.kim.dev@gmail.com)
+- **LinkedIn**: [Taekwon Kim](https://www.linkedin.com/in/taekwon-kim-766165317/)
+- **Portfolio**: [https://tae-uni.github.io/](https://tae-uni.github.io/)
 
 ### 🔥 Current Focus
 - Exploring advanced **data structures and algorithms**
